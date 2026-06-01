@@ -33,6 +33,10 @@ Attack Surface Change Detection platform for tracking new, removed and risky ass
 - BeautifulSoup
 - Requests
 
+## Dashboard Preview
+
+![Dashboard](screenshots/dashboard.png)
+
 ## Usage
 
 ```bash
